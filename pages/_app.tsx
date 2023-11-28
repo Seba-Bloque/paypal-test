@@ -1,3 +1,4 @@
+// pages/_app.js
 import React, { useEffect } from 'react';
 import App from 'next/app';
 import { SessionProvider as AuthProvider } from 'next-auth/react';
